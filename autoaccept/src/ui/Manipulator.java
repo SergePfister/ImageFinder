@@ -2,6 +2,9 @@ package ui;
 
 import java.awt.image.BufferedImage;
 import java.awt.image.PixelGrabber;
+/**
+ * Test GibHub
+ */
 
 public class Manipulator {
 
@@ -87,6 +90,7 @@ public class Manipulator {
                     }
                 }
             }
+        
         }
     
         
